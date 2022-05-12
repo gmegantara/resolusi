@@ -1,6 +1,5 @@
   -- RESOLUSI 2022--
 - Konsisten ngoding
-- Membuat website mudah
 - Membuat web portfolio
 - Isi web portofolio dengan image gallery
 - Lanjutkan belajar ngoding
